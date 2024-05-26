@@ -120,6 +120,8 @@ alias note="cd '/mnt/c/Users/acerezo/OneDrive - Analog Devices, Inc/Documents/_A
 # development environment
 alias py='python3'
 
+# alias for NVIM
+alias vim='nvim'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
